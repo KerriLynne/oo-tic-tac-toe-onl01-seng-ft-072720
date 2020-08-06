@@ -49,6 +49,8 @@ WIN_COMBINATIONS = [
   return number_of_turns
   end
 
+  def current_player
+
 
 
 
