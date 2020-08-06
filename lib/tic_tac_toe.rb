@@ -116,7 +116,7 @@ WIN_COMBINATIONS = [
     end
   end
 
-
+bin/TicTacToe
 
 
 end
