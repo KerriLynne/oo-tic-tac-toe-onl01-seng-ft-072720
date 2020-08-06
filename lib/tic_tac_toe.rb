@@ -39,6 +39,8 @@ WIN_COMBINATIONS = [
     index.between?(0,8) && !position_taken?(index)
   end  
 
+  
+
   # def self.all
   # WIN_COMBINATIONS
   # end
