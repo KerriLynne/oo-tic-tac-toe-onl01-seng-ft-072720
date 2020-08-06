@@ -29,6 +29,10 @@ WIN_COMBINATIONS = [
 
   def move(position, char)
     @board[position] = char
+  end
+
+  def position_taken
+    index.between?(0,8) && !position_taken?(index)
   end  
 
   # def self.all
