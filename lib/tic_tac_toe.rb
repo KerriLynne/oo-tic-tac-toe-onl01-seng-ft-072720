@@ -117,6 +117,6 @@ WIN_COMBINATIONS = [
   end
 
 
-
+TicTacToe.new
 
 end
