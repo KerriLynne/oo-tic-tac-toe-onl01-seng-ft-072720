@@ -113,7 +113,8 @@ WIN_COMBINATIONS = [
       puts "Congratulations #{winner}!"
     elsif draw?
       puts "Ended in a draw."
-
+    end
+  end
 
 
 
