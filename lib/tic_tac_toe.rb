@@ -70,6 +70,9 @@ WIN_COMBINATIONS = [
     end
   end
 
+  def won?
+    
+
 
 
 
