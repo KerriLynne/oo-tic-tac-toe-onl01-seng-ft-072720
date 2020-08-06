@@ -68,7 +68,7 @@ WIN_COMBINATIONS = [
     else
       turn
     end
-end
+  end
 
 
 
