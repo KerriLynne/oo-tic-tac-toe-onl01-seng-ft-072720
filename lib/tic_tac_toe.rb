@@ -32,7 +32,7 @@ WIN_COMBINATIONS = [
   end
 
   def position_taken?(index_i)
-    ((@board[sindex_i] == "X") || (@board[index_i] == "O"))
+    ((@board[index_i] == "X") || (@board[index_i] == "O"))
   end
 
   # def self.all
