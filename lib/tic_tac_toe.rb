@@ -24,6 +24,7 @@ WIN_COMBINATIONS = [
   end
 
   def input_to_index(user_input)
+  end
 
   # def self.all
   # WIN_COMBINATIONS
