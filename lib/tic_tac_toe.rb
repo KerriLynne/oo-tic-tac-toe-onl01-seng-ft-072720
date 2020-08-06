@@ -112,7 +112,7 @@ WIN_COMBINATIONS = [
     if won?
       puts "Congratulations #{winner}!"
     elsif draw?
-      puts "Cat's Game!"
+      puts "Ended in a draw."
 
 
 
