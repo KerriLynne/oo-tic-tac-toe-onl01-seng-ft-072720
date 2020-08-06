@@ -83,7 +83,7 @@ WIN_COMBINATIONS = [
 
   def full?
     @board.all?{|occupied| occupied != " "}
-  end  
+  end
 
   def draw?
     !(won?) && (full?)
