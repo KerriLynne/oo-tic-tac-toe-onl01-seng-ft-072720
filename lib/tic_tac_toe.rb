@@ -45,7 +45,8 @@ WIN_COMBINATIONS = [
       if space == "X" || space == "O"
         number_of_turns += 1
       end
-  end      
+  end
+  number_of_turns      
 
 
 
