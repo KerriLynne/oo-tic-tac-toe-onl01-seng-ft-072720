@@ -50,9 +50,4 @@ WIN_COMBINATIONS = [
 
 
 
-
-  # def self.all
-  # WIN_COMBINATIONS
-  # end
-
 end
